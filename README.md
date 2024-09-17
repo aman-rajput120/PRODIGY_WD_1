@@ -1,4 +1,4 @@
-# Getting Started with Create React App
-(https://github.com/vitejs/vite-plugin-react-swc)
+# Visit Here For Viewing a landing page
+food-ordering-application1.vercel.app
 
 ## Available Script
